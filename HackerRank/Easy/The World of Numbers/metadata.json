@@ -1,0 +1,15 @@
+{
+  "title": "The World of Numbers",
+  "title_slug": "bash-tutorials---the-world-of-numbers",
+  "difficulty": "Easy",
+  "language": "bash",
+  "url": "https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem",
+  "tags": [],
+  "description": "Given two integers,  and , find their sum, difference, product, and quotient.\n\n**Input Format**\n\nTwo lines containing one integer each ( and , respectively).\n\n**Constraints**\n\n **\n\nOutput Format**\n\nFour lines containing the sum (), difference (), product (), and quotient (), respectively. **\n(While computing the quotient, print only the integer part.)\n\nSample Input**\n\n```\n5\n2\n\n```\n\n**Sample Output**\n\n```\n7\n3\n10\n2\n\n```\n\n**Explanation**\n\n5 + 2 = 7\n\n5 - 2 = 3\n\n5 * 2 = 10\n\n5 / 2 = 2 (Integer part)",
+  "examples": "",
+  "constraints": "",
+  "synced_at": "2026-10-15T17:10:34.279Z",
+  "platform": "hackerrank",
+  "platformId": "hackerrank",
+  "problemId": "bash-tutorials---the-world-of-numbers"
+}
