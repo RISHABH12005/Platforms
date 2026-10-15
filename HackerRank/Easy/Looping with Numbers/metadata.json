@@ -1,0 +1,15 @@
+{
+  "title": "Looping with Numbers",
+  "title_slug": "bash-tutorials---looping-with-numbers",
+  "difficulty": "Easy",
+  "language": "bash",
+  "url": "https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem",
+  "tags": [],
+  "description": "Use a *for* loop to display the natural numbers from  to .\n\n**Input Format**\n\n*There is no input*\n\n**Output Format**\n\n```\n1\n2\n3\n4\n5\n.\n.\n.\n.\n.\n50\n\n```",
+  "examples": "",
+  "constraints": "",
+  "synced_at": "2026-10-15T17:10:45.576Z",
+  "platform": "hackerrank",
+  "platformId": "hackerrank",
+  "problemId": "bash-tutorials---looping-with-numbers"
+}
