@@ -1,0 +1,15 @@
+{
+  "title": "Java Static Initializer Block",
+  "title_slug": "java-static-initializer-block",
+  "difficulty": "Easy",
+  "language": "java",
+  "url": "https://www.hackerrank.com/challenges/java-static-initializer-block/problem",
+  "tags": [],
+  "description": "Static initialization blocks are executed when the class is loaded, and you can initialize static variables in those blocks.\n\nIt's time to test your knowledge of *Static initialization blocks*. You can read about it [here.](https://docs.oracle.com/javase/tutorial/java/javaOO/initial.html)\n\nYou are given a class *Solution* with a *main* method. Complete the given code so that it outputs the area of a parallelogram with breadth  and height . You should read the variables from the standard input.\n\nIf  or  , the output should be *\"java.lang.Exception: Breadth and height must be positive\"* without quotes.\n\n**Input Format**\n\nThere are two lines of input. The first line contains : the breadth of the parallelogram. The next line contains : the height of the parallelogram.\n\n**Constraints**\n\n*\n\n*\n\n**Output Format**\n\nIf both values are greater than zero, then the *main* method must output the area of the *parallelogram*. Otherwise, print *\"java.lang.Exception: Breadth and height must be positive\"* without quotes.\n\n**Sample input 1**\n\n```\n1\n3\n\n```\n\n**Sample output 1**\n\n```\n3\n\n```\n\n**Sample input 2**\n\n```\n-1\n2\n\n```\n\n**Sample output 2**\n\n```\njava.lang.Exception: Breadth and height must be positive\n\n```",
+  "examples": "",
+  "constraints": "",
+  "synced_at": "2026-10-15T17:10:59.866Z",
+  "platform": "hackerrank",
+  "platformId": "hackerrank",
+  "problemId": "java-static-initializer-block"
+}
