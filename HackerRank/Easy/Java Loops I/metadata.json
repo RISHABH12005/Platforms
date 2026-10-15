@@ -1,0 +1,15 @@
+{
+  "title": "Java Loops I",
+  "title_slug": "java-loops-i",
+  "difficulty": "Easy",
+  "language": "java",
+  "url": "https://www.hackerrank.com/challenges/java-loops-i/problem",
+  "tags": [],
+  "description": "**Objective** **\nIn this challenge, we're going to use loops to help us do some simple math.\n\nTask** **\nGiven an integer, , print its first  multiples. Each multiple  (where ) should be printed on a new line in the form: `N x i = result`.\n\nInput Format**\n\nA single integer, .\n\n**Constraints**\n\n*\n\n**Output Format**\n\nPrint  lines of output; each line  (where ) contains the  of  in the form: **\n`N x i = result`.\n\nSample Input**\n\n```\n2\n\n```\n\n**Sample Output**\n\n```\n2 x 1 = 2\n2 x 2 = 4\n2 x 3 = 6\n2 x 4 = 8\n2 x 5 = 10\n2 x 6 = 12\n2 x 7 = 14\n2 x 8 = 16\n2 x 9 = 18\n2 x 10 = 20\n\n```",
+  "examples": "",
+  "constraints": "",
+  "synced_at": "2026-10-15T17:11:13.522Z",
+  "platform": "hackerrank",
+  "platformId": "hackerrank",
+  "problemId": "java-loops-i"
+}
