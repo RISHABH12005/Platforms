@@ -1,0 +1,15 @@
+{
+  "title": "Java If-Else",
+  "title_slug": "java-if-else",
+  "difficulty": "Easy",
+  "language": "java",
+  "url": "https://www.hackerrank.com/challenges/java-if-else/problem",
+  "tags": [],
+  "description": "In this challenge, we test your knowledge of using *if-else* conditional statements to automate decision-making processes. An if-else statement has the following logical flow:\n\n*\n\nSource: [Wikipedia](https://en.wikipedia.org/wiki/Conditional_%28computer_programming%29)\n\n**Task** **\nGiven an integer, , perform the following conditional actions:\n\n* If  is odd, print `Weird`\n\n* If  is even and in the inclusive range of  to , print `Not Weird`\n\n* If  is even and in the inclusive range of  to , print `Weird`\n\n* If  is even and greater than , print `Not Weird`\n\nComplete the stub code provided in your editor to print whether or not  is weird.\n\nInput Format**\n\nA single line containing a positive integer, .\n\n**Constraints**\n\n*\n\n**Output Format**\n\nPrint `Weird` if the number is weird; otherwise, print `Not Weird`.\n\n**Sample Input 0**\n\n```\n3\n\n```\n\n**Sample Output 0**\n\n```\nWeird\n\n```\n\n**Sample Input 1**\n\n```\n24\n\n```\n\n**Sample Output 1**\n\n```\nNot Weird\n\n```\n\n**Explanation**\n\nSample Case 0:*\n\n is odd and odd numbers are weird, so we print `Weird`.\n\n*Sample Case 1:*\n\n and  is even, so it isn't weird. Thus, we print `Not Weird`.",
+  "examples": "",
+  "constraints": "",
+  "synced_at": "2026-10-15T17:11:26.598Z",
+  "platform": "hackerrank",
+  "platformId": "hackerrank",
+  "problemId": "java-if-else"
+}
