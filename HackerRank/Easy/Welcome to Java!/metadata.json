@@ -1,0 +1,15 @@
+{
+  "title": "Welcome to Java!",
+  "title_slug": "welcome-to-java",
+  "difficulty": "Easy",
+  "language": "java",
+  "url": "https://www.hackerrank.com/challenges/welcome-to-java/problem",
+  "tags": [],
+  "description": "Welcome to the world of Java! In this challenge, we practice printing to stdout.\n\nThe code stubs in your editor declare a *Solution* class and a *main* method. Complete the *main* method by copying the two lines of code below and pasting them inside the body of your *main* method.\n\n```\nSystem.out.println(\"Hello, World.\");\nSystem.out.println(\"Hello, Java.\");\n\n```\n\n**Input Format**\n\nThere is no input for this challenge.\n\n**Output Format**\n\nYou must print two lines of output:\n\n* Print `Hello, World.` on the first line.\n\n* Print `Hello, Java.` on the second line.\n\n**Sample Output**\n\n```\nHello, World.\nHello, Java.\n\n```",
+  "examples": "",
+  "constraints": "",
+  "synced_at": "2026-10-15T17:11:40.539Z",
+  "platform": "hackerrank",
+  "platformId": "hackerrank",
+  "problemId": "welcome-to-java"
+}
