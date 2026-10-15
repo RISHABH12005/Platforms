@@ -1,0 +1,15 @@
+{
+  "title": "Java Datatypes",
+  "title_slug": "java-datatypes",
+  "difficulty": "Easy",
+  "language": "java",
+  "url": "https://www.hackerrank.com/challenges/java-datatypes/problem",
+  "tags": [],
+  "description": "Java has 8 primitive data types; *char, boolean, byte, short, int, long, float, and double*. For this exercise, we'll work with the primitives used to hold integer values (*byte, short, int,* and *long*):\n\n* A *byte* is an 8-bit signed integer.\n\n* A *short* is a 16-bit signed integer.\n\n* An *int* is a 32-bit signed integer.\n\n* A *long* is a 64-bit signed integer.\n\nGiven an input integer, you must determine which primitive data types are capable of properly storing that input.\n\nTo get you started, a portion of the solution is provided for you in the editor.\n\n**Reference:** [https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)\n\n**Input Format**\n\nThe first line contains an integer, , denoting the number of test cases. **\nEach test case, , is comprised of a single line with an integer, , which can be arbitrarily large or small.\n\nOutput Format**\n\nFor each input variable  and appropriate primitive , you must determine if the given primitives are capable of storing it. If yes, then print:\n\n```\nn can be fitted in:\n* dataType\n\n```\n\nIf there is more than one appropriate data type, print each one on its own line and order them by size (i.e.: ).\n\nIf the number cannot be stored in one of the four aforementioned primitives, print the line:\n\n```\nn can't be fitted anywhere.\n\n```\n\n**Sample Input**\n\n```\n5\n-150\n150000\n1500000000\n213333333333333333333333333333333333\n-100000000000000\n\n```\n\n**Sample Output**\n\n```\n-150 can be fitted in:\n* short\n* int\n* long\n150000 can be fitted in:\n* int\n* long\n1500000000 can be fitted in:\n* int\n* long\n213333333333333333333333333333333333 can't be fitted anywhere.\n-100000000000000 can be fitted in:\n* long\n\n```\n\n**Explanation**\n\n can be stored in a *short*, an *int*, or a *long*.\n\n is very large and is outside of the allowable range of values for the primitive data types discussed in this problem.",
+  "examples": "",
+  "constraints": "",
+  "synced_at": "2026-10-15T17:11:06.946Z",
+  "platform": "hackerrank",
+  "platformId": "hackerrank",
+  "problemId": "java-datatypes"
+}
