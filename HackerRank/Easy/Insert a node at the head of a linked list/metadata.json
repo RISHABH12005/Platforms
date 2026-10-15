@@ -1,0 +1,15 @@
+{
+  "title": "Insert a node at the head of a linked list",
+  "title_slug": "insert-a-node-at-the-head-of-a-linked-list",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "url": "https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem",
+  "tags": [],
+  "description": "This challenge is part of a tutorial track by [MyCodeSchool](http://www.youtube.com/mycodeschool) and is accompanied by a video lesson.\n\nGiven a pointer to the head of a linked list, insert a new node before the head.  The  value in the new node should point to  and the  value should be replaced with a given value.  Return a reference to the new head of the list. The head pointer given may be null meaning that the initial list is empty.\n\n**Function Description**\n\nComplete the function  with the following parameter(s):\n\n* : a reference to the head of a list\n\n* : the value to insert in the  field of the new node\n\n**Input Format**\n\nThe first line contains an integer , the number of elements to be inserted at the head of the list. **\nThe next  lines contain an integer each, the elements to be inserted, one per function call.\n\nConstraints**\n\n*\n\n*\n\n**Sample Input**\n\n```\nSTDIN   Function\n-----   --------\n5       n = 5\n383     data items to insert 383 ... 321\n484\n392\n975\n321\n\n```\n\n**Sample Output**\n\n```\n321\n975\n392\n484\n383\n\n```\n\n**Explanation**\n\nIntially the list in NULL.\nAfter inserting 383, the list is 383 -> NULL.\n\nAfter inserting 484, the list is 484 -> 383 -> NULL.\n\nAfter inserting 392, the list is 392 -> 484 -> 383 -> NULL.\n\nAfter inserting 975, the list is 975 -> 392 -> 484 -> 383 -> NULL.\n\nAfter inserting 321, the list is 321 -> 975 -> 392 -> 484 -> 383 -> NULL.",
+  "examples": "",
+  "constraints": "",
+  "synced_at": "2026-10-15T17:12:27.900Z",
+  "platform": "hackerrank",
+  "platformId": "hackerrank",
+  "problemId": "insert-a-node-at-the-head-of-a-linked-list"
+}
