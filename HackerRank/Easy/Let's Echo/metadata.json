@@ -1,0 +1,15 @@
+{
+  "title": "Let's Echo",
+  "title_slug": "bash-tutorials-lets-echo",
+  "difficulty": "Easy",
+  "language": "bash",
+  "url": "https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem",
+  "tags": [],
+  "description": "Write a bash script that prints the string \"HELLO\".\n\n**Input Format**\n\nThere is no input file required for this problem.\n\n**Output Format**\n\nHELLO\n\n**Sample Input**\n\n-\n\n**Sample Output**\n\nHELLO\n\n**Explanation**\n\n-",
+  "examples": "",
+  "constraints": "",
+  "synced_at": "2026-10-15T17:12:49.051Z",
+  "platform": "hackerrank",
+  "platformId": "hackerrank",
+  "problemId": "bash-tutorials-lets-echo"
+}
