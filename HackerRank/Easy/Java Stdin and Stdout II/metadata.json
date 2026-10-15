@@ -1,0 +1,15 @@
+{
+  "title": "Java Stdin and Stdout II",
+  "title_slug": "java-stdin-stdout",
+  "difficulty": "Easy",
+  "language": "java",
+  "url": "https://www.hackerrank.com/challenges/java-stdin-stdout/problem",
+  "tags": [],
+  "description": "In this challenge, you must read an *integer*, a *double*, and a *String* from stdin, then print the values according to the instructions in the *Output Format* section below. To make the problem a little easier, a portion of the code is provided for you in the editor.\n\n**Note:** We recommend completing [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1) before attempting this challenge.\n\n**Input Format**\n\nThere are three lines of input:\n\n* The first line contains an *integer*.\n\n* The second line contains a *double*.\n\n* The third line contains a *String*.\n\n**Output Format**\n\nThere are three lines of output:\n\n* On the first line, print `String:` followed by the unaltered *String* read from stdin.\n\n* On the second line, print `Double:` followed by the unaltered *double* read from stdin.\n\n* On the third line, print `Int:` followed by the unaltered *integer* read from stdin.\n\nTo make the problem easier, a portion of the code is already provided in the editor.\n\n**Note:** If you use the *nextLine()* method immediately following the *nextInt()* method, recall that *nextInt()* reads integer tokens; because of this, the last newline character for that line of integer input is still queued in the input buffer and the next *nextLine()* will be reading the remainder of the integer line (which is empty).\n\n**Sample Input**\n\n```\n42\n3.1415\nWelcome to HackerRank's Java tutorials!\n\n```\n\n**Sample Output**\n\n```\nString: Welcome to HackerRank's Java tutorials!\nDouble: 3.1415\nInt: 42\n\n```",
+  "examples": "",
+  "constraints": "",
+  "synced_at": "2026-10-15T17:11:19.988Z",
+  "platform": "hackerrank",
+  "platformId": "hackerrank",
+  "problemId": "java-stdin-stdout"
+}
