@@ -1,45 +1,44 @@
-# HackerRank Solutions
+# Coding Practice Solutions
 
-A personal archive of my HackerRank coding practice. This repository is intended to keep accepted solutions organized and make it easier to review progress over time.
+A collection of coding problems solved on HackerRank and LeetCode, organized by platform, difficulty, and challenge name.
 
-## Repository structure
+## Repository Structure
 
 ```text
-HackerRank/
-├── Algorithms/
-├── Data-Structures/
-├── Python/
-├── SQL/
-├── Java/
-├── C/
-├── Cpp/
+.
+├── HackerRank/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+├── leetcode/
+│   └── Easy/
+│       └── <Problem Name>/
+│           ├── solution.<ext>
+│           ├── README.md
+│           └── metadata.json
+├── LICENSE
 └── README.md
 ```
 
-Solutions may be grouped by HackerRank domain and language. Use descriptive filenames based on the challenge name.
+Each problem folder may contain the solution source code, a problem description, and submission metadata when available.
 
-## Saving new solutions
+## Platforms
 
-For automatic uploads from supported HackerRank pages, use a browser extension such as [CodeHub](https://github.com/Adnan-Umar/CodeHub) and link it to this repository:
+- **HackerRank:** Practice problems covering algorithms, data structures, SQL, and programming languages. Browse the [HackerRank solutions](./HackerRank).
+- **LeetCode:** Algorithm and data-structure practice problems for improving problem-solving and interview skills. Browse the [LeetCode solutions](./leetcode).
 
-1. Review the extension's README and security guidance.
-2. Install it using the project's documented instructions.
-3. Authenticate with GitHub through the extension's supported flow.
-4. Select `RISHABH12005/HackerRank` as the destination repository.
-5. Submit a test solution on HackerRank and confirm the resulting file appears here.
+## Sync Extension
 
-**Note:** This setup does not automatically import older HackerRank submissions. Previously solved challenges must be imported separately, or re-opened and pushed using a supported manual workflow. Verify each uploaded file before relying on it as a complete archive.
+[Commit Sync for Chrome](https://chromewebstore.google.com/detail/commit-sync/lgpbkmgjeglbpigeolmcgifgdkldbooi)
 
-## Importing older solutions
+Review the extension's supported platforms, permissions, and privacy details before using it. Do not assume it syncs LeetCode submissions unless that functionality is explicitly supported.
 
-If you have solution files locally, copy them into the appropriate folders and commit them to this repository. Name files consistently, for example:
+## Notes
 
-- `Python/Hello-World.py`
-- `Algorithms/Diagonal-Difference.py`
-- `SQL/Select-All.sql`
-
-Keep only code you are allowed to publish; do not upload assessment answers that are subject to confidentiality or platform rules.
+- Solutions are maintained for learning and practice.
+- Submission history and acceptance status are included only when recorded in the repository.
+- Check each platform's rules before reusing or sharing solutions.
 
 ## License
 
-See [LICENSE](LICENSE) for the repository's current license.
+See [LICENSE](./LICENSE) for licensing information.
