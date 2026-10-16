@@ -10,12 +10,12 @@ A collection of coding problems solved on HackerRank and LeetCode, organized by 
 │   ├── Easy/
 │   ├── Medium/
 │   └── Hard/
+|
 ├── leetcode/
-│   └── Easy/
-│       └── <Problem Name>/
-│           ├── solution.<ext>
-│           ├── README.md
-│           └── metadata.json
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+|
 ├── LICENSE
 └── README.md
 ```
